@@ -1,0 +1,19 @@
+{
+  "name": "vuepress_iitjeenotes",
+  "version": "0.0.1",
+  "description": "IIT JEE Notes by Ayush P Gupta",
+  "main": "index.js",
+  "authors": {
+    "name": "Ayush P Gupta",
+    "email": "ayushpguptaapg@gmail.com"
+  },
+  "repository": "https://github.com/apgapg/vuepress_iitjeenotes/vuepress_iitjeenotes",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}

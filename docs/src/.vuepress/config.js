@@ -74,6 +74,11 @@ module.exports = {
             "/guide/courses/fluid-mechanics",
           ],
         },
+        {
+          title: "Interactive Visuals",
+          collapsable: false,
+          children: ["/guide/interactive-visuals/physics-concepts"],
+        },
       ],
     },
   },

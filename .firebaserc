@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "teaching-6b309"
+  },
+  "targets": {
+    "teaching-6b309": {
+      "hosting": {
+        "main": [
+          "iitjeenotes"
+        ]
+      }
+    }
   }
 }

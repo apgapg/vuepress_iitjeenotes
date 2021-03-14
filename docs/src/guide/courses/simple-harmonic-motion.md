@@ -6,6 +6,12 @@
 
 
 This course is a one stop destination for the understanding of SHM and its various applications, solving numericals and tricks used.
+
+
+<p align="center">
+    <img src="https://firebasestorage.googleapis.com/v0/b/teaching-6b309.appspot.com/o/extras%2Fshm.png?alt=media&token=5b8a560b-ecf7-4035-b7fb-bcb721c0f052" />
+</p>
+
 ## Hooke's Law, Restoring Force, Conditions for SHM
 
 ::: details View video

@@ -6,6 +6,12 @@
 
 
 This course presents a full coverage on Rotation Mechanics. It includes introduction to moment of inertia, its determination for different bodies, pure rolling concept, and finally some quality numericals is also given at the end.
+
+
+<p align="center">
+    <img src="https://edge.uacdn.net/0OI534WQPEXPSFJV2Q6U/images/3.jpeg" />
+</p>
+
 ## Introduction to Moment of Inertia
 
 ::: details View video

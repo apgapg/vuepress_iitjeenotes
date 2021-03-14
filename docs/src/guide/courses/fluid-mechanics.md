@@ -6,6 +6,12 @@
 
 
 This course starts with the basic fundamentals of fluids like pressure inside fluid, its variations, Pascals Law, Archimedes Principle it then goes to explaining some advance concepts like equation of continuity, Bernouli equation and finally solving numericals related to it.
+
+
+<p align="center">
+    <img src="https://edge.uacdn.net/2AI1FKTUU0VK476CQWQP/images/2.jpeg" />
+</p>
+
 ## Pressure Inside Fluids
 
 ::: details View video

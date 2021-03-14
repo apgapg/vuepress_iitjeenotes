@@ -6,6 +6,12 @@
 
 
 This course deals with the theory behind the Gravitation chapter. The contents include Gravitation Law, Gravitational Field, Kepler Law, Motion of Satellites along with quality numerical
+
+
+<p align="center">
+    <img src="https://edge.uacdn.net/0QOI7CI5O5IKM0HOGHFD/images/5.jpeg" />
+</p>
+
 ## Newton's Law of Gravitation
 
 ::: details View video

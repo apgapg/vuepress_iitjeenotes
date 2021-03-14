@@ -6,6 +6,12 @@
 
 
 This course describes about circular motion, uniform circular motion, and motion in a vertical circle.
+
+
+<p align="center">
+    <img src="https://firebasestorage.googleapis.com/v0/b/teaching-6b309.appspot.com/o/extras%2Fcm-min.png?alt=media&token=7625a821-8f5a-4ad4-acd6-bf7eadf96fe1" />
+</p>
+
 ## Basic Recap : Angular Variables
 
 ::: details View video

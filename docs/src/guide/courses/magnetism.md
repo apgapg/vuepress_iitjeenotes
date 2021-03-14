@@ -6,6 +6,12 @@
 
 
 This course starts with the force on a current carrying wire and the related stuff. This course also deals with Biot Savart Law, Ampere Circuital law
+
+
+<p align="center">
+    <img src="https://storage.googleapis.com/teaching-6b309.appspot.com/Physics/Magnetism/95VGTZR6A2DV9Y9T3DQM/95VGTZR6A2DV9Y9T3DQM%20solution_3.jpeg" />
+</p>
+
 ## Force on a Current carrying Wire: Part 1
 
 ::: details View video

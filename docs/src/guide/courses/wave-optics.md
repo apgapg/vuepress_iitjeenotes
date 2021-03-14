@@ -6,6 +6,12 @@
 
 
 This course deals with wave optics which comprises of YDSE, Diffraction, Interference, Polarization along with some quality numericals.
+
+
+<p align="center">
+    <img src="https://storage.googleapis.com/teaching-6b309.appspot.com/Physics/Wave%20Optics/VUNXDK3XOXRJ2A3CGOQP/solution_3.jpeg" />
+</p>
+
 ## Interference in Light Waves
 
 ::: details View video

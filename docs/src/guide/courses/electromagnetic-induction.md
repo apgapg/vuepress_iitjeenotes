@@ -6,6 +6,12 @@
 
 
 This course starts with the basics of induction ie Faraday's law, Lenz law and then goes to advance topics like inductors, self inductance, mutual inductance, along with numerical applications for a deep, thorough & easy understanding of the topic.
+
+
+<p align="center">
+    <img src="https://firebasestorage.googleapis.com/v0/b/teaching-6b309.appspot.com/o/extras%2Fei.jpeg?alt=media&token=ca0cd71e-d9e5-446e-9ca9-828b10a77c01" />
+</p>
+
 ## Magnetic Flux
 
 ::: details View video

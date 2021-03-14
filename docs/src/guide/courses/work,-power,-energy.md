@@ -6,6 +6,12 @@
 
 
 It starts with basic introduction to work and gradually explIns different cases of work done like in conservative and non conservative field. It then advances to core concepts like Potential Energy. Some quality numericals are also added at the end for better understanding.
+
+
+<p align="center">
+    <img src="https://edge.uacdn.net/M5KOIVB52U4RBO9YVCMY/images/3.jpeg" />
+</p>
+
 ## Introduction to Work
 
 ::: details View video

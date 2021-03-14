@@ -6,6 +6,12 @@
 
 
 This course starts with basic introduction to reflection, refraction to some advanced topics like lenses, prism etc.
+
+
+<p align="center">
+    <img src="https://firebasestorage.googleapis.com/v0/b/teaching-6b309.appspot.com/o/extras%2Fro-min.jpeg?alt=media&token=2145d0ff-d92b-4c24-b372-dccc99c26e6c" />
+</p>
+
 ## Plane Mirror : Part 1
 
 ::: details View video

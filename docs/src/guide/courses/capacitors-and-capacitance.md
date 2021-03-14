@@ -6,6 +6,12 @@
 
 
 This course introduces what capacitors are, their applications, and calculating their capacitance. Also this course deals with the varies conditions like effect of inserting Dielectrics etc inside capacitor. It also describes how to analyze thevenin circuits and presents numerical to have a clear understanding of the course.
+
+
+<p align="center">
+    <img src="https://edge.uacdn.net/M32M1N87SPDGP0RZEX0G/images/3.jpeg" />
+</p>
+
 ## Introduction to Capacitance, its Expression and Determination
 
 ::: details View video

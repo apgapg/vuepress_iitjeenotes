@@ -3,6 +3,7 @@ import os
 import firebase_admin 
 from firebase_admin import credentials
 from firebase_admin import firestore
+from mdutils.tools.Html import Html
 
 # Use a service account
 cred = credentials.Certificate('./service.json')
@@ -17,6 +18,7 @@ courseList=[]
 for doc in docs:
     courseName = doc.to_dict().get('name')
     courseDescription = doc.to_dict().get('description')
+    courseCover = doc.to_dict().get('cover')
     dirname = os.path.dirname(__file__)
     mdFileName=courseName.replace(" ", "-").lower()
     filename = os.path.join(dirname, f'../docs/src/guide/courses/{mdFileName}.md')
@@ -26,6 +28,11 @@ for doc in docs:
     mdFile.new_header(level=1, title=f'{courseName}')
 
     mdFile.new_paragraph(f'{courseDescription}')
+
+    if courseCover is not None:
+        mdFile.write(f'\n')
+        mdFile.new_paragraph(Html.image(path=f'{courseCover}', align='center'))
+        mdFile.write(f'\n')
 
     for topic in doc.to_dict().get('topics'):
         topicId=topic.get('id')

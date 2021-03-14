@@ -6,6 +6,12 @@
 
 
 This course presents complete video lectures on thermodynamics starting drom very basic to advance concepts like Specific heat capacity, Caloriemetery, Various thermodynamic process etc.
+
+
+<p align="center">
+    <img src="https://edge.uacdn.net/JXZDEYNWAX80HFB0F4AZ/images/4.jpeg" />
+</p>
+
 ## Various Temperature Scales
 
 ::: details View video

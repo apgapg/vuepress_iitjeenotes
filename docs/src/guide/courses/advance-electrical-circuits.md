@@ -6,6 +6,12 @@
 
 
 This course presents advance topics on DC circuits like Kirchoffs law, solving circuits with symmetry etc
+
+
+<p align="center">
+    <img src="https://firebasestorage.googleapis.com/v0/b/teaching-6b309.appspot.com/o/extras%2Faec-min%20(2).jpeg?alt=media&token=0a4476bd-b8e9-4d77-8a8a-72606ce44c9c" />
+</p>
+
 ## Kirchoff's Laws
 
 ::: details View video

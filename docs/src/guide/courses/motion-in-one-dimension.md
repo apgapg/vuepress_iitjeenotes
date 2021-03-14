@@ -6,6 +6,12 @@
 
 
 The course presents full coverage of the topic starting from introduction to equations of motion, their application, relative motion like boat problem, rain problem etc along with some quality numericals for better understanding.
+
+
+<p align="center">
+    <img src="https://firebasestorage.googleapis.com/v0/b/teaching-6b309.appspot.com/o/extras%2Fmod.jpeg?alt=media&token=490f4beb-6b90-4757-8e5f-9dd809b7133f" />
+</p>
+
 ## Part 1 : Ball Vertically Thrown Upward
 
 ::: details View video

@@ -6,6 +6,12 @@
 
 
 This course is a destination for the complete understanding of projectile motion along with its applications and numericals.
+
+
+<p align="center">
+    <img src="https://firebasestorage.googleapis.com/v0/b/teaching-6b309.appspot.com/o/extras%2Fpm.jpeg?alt=media&token=79ef7027-4eac-4236-a26a-48cf7de2464c" />
+</p>
+
 ## Projectile Motion : Definition and Terms Used
 
 ::: details View video

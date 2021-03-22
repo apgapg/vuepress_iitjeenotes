@@ -23,6 +23,7 @@ module.exports = {
       { name: "apple-mobile-web-app-status-bar-style", content: "black" },
     ],
     ["link", { rel: "icon", href: "/logo.png" }],
+    ["meta", { name: "google-site-verification", content: "KMvqVAD_cV9Q9gOpJjkQf8RUsCMqBVPpgD2-wYJaC8s" }]
   ],
 
   /**

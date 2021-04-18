@@ -7,7 +7,7 @@
     "name": "Ayush P Gupta",
     "email": "ayushpguptaapg@gmail.com"
   },
-  "repository": "https://github.com/apgapg/vuepress_iitjeenotes/vuepress_iitjeenotes",
+  "repository": "https://github.com/apgapg/vuepress_iitjeenotes/",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"

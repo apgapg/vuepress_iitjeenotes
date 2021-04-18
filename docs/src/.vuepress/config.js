@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: "IIT JEE Notes",
+  title: "IIT JEE Notes by Ayush P Gupta",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */

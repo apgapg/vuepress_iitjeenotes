@@ -1,7 +1,7 @@
 {
   "name": "vuepress_iitjeenotes",
   "version": "0.0.1",
-  "description": "IIT JEE Notes by Ayush P Gupta",
+  "description": "Crack IIT JEE from the Hand Written Notes from IITian himself. Explains each topic right from basic to advance level, along with Quality Numericals",
   "main": "index.js",
   "authors": {
     "name": "Ayush P Gupta",

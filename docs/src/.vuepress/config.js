@@ -55,6 +55,11 @@ module.exports = {
     sidebar: {
       "/guide/": [
         {
+          title: "Interactive Visuals",
+          collapsable: false,
+          children: ["/guide/interactive-visuals/physics-concepts"],
+        },
+        {
           title: "Courses",
           collapsable: false,
           children: [
@@ -75,11 +80,6 @@ module.exports = {
             "/guide/courses/fluid-mechanics",
           ],
         },
-        {
-          title: "Interactive Visuals",
-          collapsable: false,
-          children: ["/guide/interactive-visuals/physics-concepts"],
-        },
       ],
     },
   },
@@ -93,7 +93,7 @@ module.exports = {
     [
       "sitemap",
       {
-        hostname: "http://iitjeenotes.web.app/",
+        hostname: "https://iitjee.ayushpgupta.com/",
       },
     ],
   ],
